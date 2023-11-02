@@ -22,7 +22,8 @@
 
 - 📟 'PiDA' device
 - 🛠️ Personal fixed gear bike
-- 📖 Mistborn by Brandon Sanderson
+- 📖 Mistborn Trilogy by Brandon Sanderson
+- 📺 The Office for the 17th time
 
 
 
