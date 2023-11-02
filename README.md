@@ -18,6 +18,13 @@
 - ✏️ Msc Advanced Product Design Engineering and Manufacturing at *Kingston University, London UK* (WIP ETC 2026)
 - 🔧 BEng Mechanical Engineering at *The University of Warwick, Coventry UK*
 
+# WIP
+
+- 📟 'PiDA' device
+- 🛠️ Personal fixed gear bike
+- 📖 Mistborn by Brandon Sanderson
+
+
 
 <!--
 **tamwip/tamwip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
