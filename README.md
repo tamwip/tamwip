@@ -8,7 +8,7 @@
 
 - 💽 Open-source advoate. (*if you're ever in pain, just remember i willingly switch to gimp from photoshop*)
 - 💻 Linux enthusiast. (*please see above*)
-- 🎨 Artist. (*most of the time i'm sketching product concepts or trying to reduce my vertex count in blender, but when i get the chance the spaceship gets drawn*)
+- 🎨 Artist. (*most of the time i'm sketching product concepts or trying to reduce my vertex count in blender, but when i get the chance the odd spaceship gets drawn*)
 - 🥾 Hiker. (*i'm yet to write a guide to the galaxy from my pov, but i do love the outdoors*)
 - 🚲 Cyclist. (*living in london, i can cycle to most places quicker than i can drive there*)
 - 🍔 Burger connoisseur. (*the art of burger creation is a keen interest of mine and i eat burgers every friday*)
