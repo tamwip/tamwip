@@ -6,7 +6,7 @@
 
 # About Me
 
-- 💽 Open-source advoate. (*if you're ever in pain, just remember i willingly switch to gimp from photoshop*)
+- 💽 Open-source advoate. (*if you're ever in pain, just remember i willingly switch from photoshop to gimp*)
 - 💻 Linux enthusiast. (*please see above*)
 - 🎨 Artist. (*most of the time i'm sketching product concepts or trying to reduce my vertex count in blender, but when i get the chance the odd spaceship gets drawn*)
 - 🥾 Hiker. (*i'm yet to write a guide to the galaxy from my pov, but i do love the outdoors*)
