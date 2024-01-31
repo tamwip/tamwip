@@ -6,10 +6,10 @@
 
 # About Me
 
-- 💽 Open-source advocate. (*if you're ever in pain, just remember i willingly switch from photoshop to gimp*)
+- 💽 Open-source advocate (*if you’re ever in pain, just remember i willingly switch from photoshop to gimp*)
 - 💻 Linux enthusiast. (*please see above*)
-- 🎨 Artist. (*most of the time i'm sketching product concepts or trying to reduce my vertex count in blender, but when i get the chance the odd spaceship gets drawn*)
-- 🥾 Hiker. (*i'm yet to write a guide to the galaxy from my pov, but i do love the outdoors*)
+- 🎨 “Art” creator (*most of the time i’m sketching product concepts or trying to reduce my vertex count in blender, but when i get the chance the odd stickman gets drawn*)
+- 🥾 🎮 Gaming enthusiast (*my steam backlog will take approximately 23.72 years to complete, got to start somewhere ey?*)
 - 🚲 Cyclist. (*living in london, i can cycle to most places quicker than i can drive to them*)
 - 🍔 Burger connoisseur. (*the art of burger creation is a keen interest of mine and i eat burgers every friday*)
 
@@ -24,7 +24,6 @@
 - 🧪 HomeLab server
 - 🛠️ Personal fixed gear bike
 - 📖 Mistborn Trilogy by Brandon Sanderson
-- 📺 The Office for the 17th time
 
 
 
