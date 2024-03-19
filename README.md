@@ -7,10 +7,10 @@
 # About Me
 
 - 💽 Open-source advocate (*if you’re ever in pain, just remember i willingly switch from photoshop to gimp*)
-- 💻 Linux enthusiast. (*please see above*)
+- 💻 Linux devotee. (*please see above*)
 - 🎨 “Art” creator (*most of the time i’m sketching product concepts or trying to reduce my vertex count in blender, but when i get the chance the odd stickman gets drawn*)
 - 🥾 🎮 Gaming enthusiast (*my steam backlog will take approximately 23.72 years to complete, got to start somewhere ey?*)
-- 🚲 Cyclist. (*living in london, i can cycle to most places quicker than i can drive to them*)
+- 🚲 Cycle zealot. (*living in london, i can cycle to most places quicker than i can drive to them*)
 - 🍔 Burger connoisseur. (*the art of burger creation is a keen interest of mine and i eat burgers every friday*)
 
 # Education
