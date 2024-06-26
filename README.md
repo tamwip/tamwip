@@ -1,7 +1,8 @@
 # Tamir's World
 
-- 📐 Product Design Engineer
-- 🖥️ 3D Generalist (*i dabble in a lot of different things, the term generalist releases any limits on my "work"*)
+- 🔧 Engineer by trade
+- ✏️ Designer by night
+- 🎨 Artist by drive
 - 🏙️ London, UK
 
 # About Me
